@@ -1,0 +1,6 @@
+Создана дополнительная конфигурация Stage. В этой конфигурации настроены следующие параметры отличные от других конфигураций:
+1) Оптимизация: Swift Compiler -> Code Generation -> Optimization Level - Optimization for Speed [-O]
+2) Имя приложения: Packaging -> Product Name - Notes Stage
+3) Иконка приложения: Assert Catalog Compiler Options -> Assert Catalog App Icon Set Name - AppIconStage
+
+Таким образом приложение собранное в этой конфигурации будет иметь отличную иконку, имя и настройки оптимизации.

@@ -1,0 +1,8 @@
+platform :ios, '11.0'
+
+target 'Notes' do
+
+  # Pods for Notes
+  pod 'CocoaLumberjack/Swift'
+  
+end

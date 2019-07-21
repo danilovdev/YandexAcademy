@@ -1,0 +1,18 @@
+PODS:
+  - CocoaLumberjack/Core (3.5.3)
+  - CocoaLumberjack/Swift (3.5.3):
+    - CocoaLumberjack/Core
+
+DEPENDENCIES:
+  - CocoaLumberjack/Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CocoaLumberjack
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 2f44e60eb91c176d471fdba43b9e3eae6a721947
+
+PODFILE CHECKSUM: 34df1be7833fbdf7f42b8f1e4105d4b7774dc8d5
+
+COCOAPODS: 1.6.2
